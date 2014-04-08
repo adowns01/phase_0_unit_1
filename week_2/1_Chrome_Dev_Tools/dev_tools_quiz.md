@@ -27,11 +27,17 @@
 
 https://drive.google.com/file/d/0B7TdcfYd-KtkdF9GWTE1WV9QZ3c/edit?usp=sharing
 
-* For the postmachina website, why can't you tweak the color of the text "The most important things are not things"?  Please explain.
+4. For the postmachina website, why can't you tweak the color of the text "The most important things are not things"?  Please explain.
 
-* Go to www.ticketswizard.com and analyze the page.  
-  * What is the largest image on the website? 
+That text isn't included in the website as normal HTML. When I inspect the element, I don't see the text in question. My initial thought was that it was an image, but I don't see an image tag in the HTML either.
+
+5. Go to www.ticketswizard.com and analyze the page.  
+  * What is the largest image on the website?
+    The largest photo is the beautifully named 92624182-c482-4a35-8da2-4fbf2f502e94_Large_Large.png picture of Time Square. 
   * Explain how you would find out this information, and list the URL of offending image here and how big it is.
+    To find out, I clicked on the "network" tab, refreshed the page, sorted the list by size, then looked for the first picture in the list. The image is 211 x 89px and is 316 KB. It is located at:
+http://www.ticketswizard.com/Images/Catalog/92624182-c482-4a35-8da2-4fbf2f502e94_Large_Large.png
 
 * Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the lowest hanging fruit to optimize the website?  How many kilobytes of data can be eliminated?
 
+Optimizing the images would be an easy way to optimate the website. If they did, it would cause a 885.9KiB (39%) reduction.
