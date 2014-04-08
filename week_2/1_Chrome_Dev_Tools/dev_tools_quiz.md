@@ -3,12 +3,20 @@
 <!-- Modify the Markdown to include your answers. Don't delete the questions! -->
 
 ##QUIZ
-* Explain which tabs support the following actions and how.
-  * Realtime editing of HTML and CSS 
-  * Javascript Debugging
+1. Explain which tabs support the following actions and how.
+  * Realtime editing of HTML and CSS:
+		You can edit HTML and CSS in real time using the "element tab" but it's not perminent. If you edit in "source" you can save the changes.
+
+  * Javascript Debugging:
+		In "network", you can see when the js is being called and how long it is taking to load. You can edit the js in "source", but if the js is minified it will be very difficult to read
+
   * Performance Optimization 
 
-* What's the quick key for your OS to spawn the Dev Tools inspector?
+		In "network" you can see how long it takes for everything to load on your page. You can also use the Google Chrome extension "Pagespeed" to do some analysis on your page.
+
+
+2. What's the quick key for your OS to spawn the Dev Tools inspector?
+		command + option + I
 
 * Go to http://www.postmachina.com/ and analyze and tweak this nicely designed page.
   * What is the current background color for the page?  (Surprisingly, it's not just black!)
@@ -25,3 +33,4 @@
   * Explain how you would find out this information, and list the URL of offending image here and how big it is.
 
 * Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the lowest hanging fruit to optimize the website?  How many kilobytes of data can be eliminated?
+
