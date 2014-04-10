@@ -43,6 +43,6 @@ http://www.ticketswizard.com/Images/Catalog/92624182-c482-4a35-8da2-4fbf2f502e94
 Optimizing the images would be an easy way to optimate the website. If they did, it would cause a 885.9KiB (39%) reduction.
 
 
-My Codeschool Points: 
+My Codeschool Points
 
 <img src="https://drive.google.com/file/d/0B7TdcfYd-KtkelQwZmF6VUNDX3c/edit?usp=sharing">
