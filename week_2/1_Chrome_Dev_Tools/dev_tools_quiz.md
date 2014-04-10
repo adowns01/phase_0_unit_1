@@ -41,3 +41,8 @@ http://www.ticketswizard.com/Images/Catalog/92624182-c482-4a35-8da2-4fbf2f502e94
 * Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the lowest hanging fruit to optimize the website?  How many kilobytes of data can be eliminated?
 
 Optimizing the images would be an easy way to optimate the website. If they did, it would cause a 885.9KiB (39%) reduction.
+
+
+My Codeschool Points: 
+
+<img src="https://drive.google.com/file/d/0B7TdcfYd-KtkelQwZmF6VUNDX3c/edit?usp=sharing">
