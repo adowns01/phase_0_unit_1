@@ -45,4 +45,4 @@ Optimizing the images would be an easy way to optimate the website. If they did,
 
 My Codeschool Points
 
-<img src="http://sereedmedia.com/srmwp/wp-content/uploads/hello_kitten.jpg">
+<img src="http://i62.tinypic.com/2nv8eid.png" border="0" alt="Image and video hosting by TinyPic">
