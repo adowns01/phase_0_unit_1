@@ -3,7 +3,7 @@
 <!-- Modify the Markdown to include your answers. Don't delete the questions! -->
 
 ##QUIZ
-1. Explain which tabs support the following actions and how.
+* Explain which tabs support the following actions and how.
   * Realtime editing of HTML and CSS:
 		You can edit HTML and CSS in real time using the "element tab" but it's not perminent. If you edit in "source" you can save the changes.
 
@@ -13,10 +13,10 @@
   * Performance Optimization: In "network" you can see how long it takes for everything to load on your page. You can also use the Google Chrome extension "Pagespeed" to do some analysis on your page.
 
 
-2. What's the quick key for your OS to spawn the Dev Tools inspector?
+* What's the quick key for your OS to spawn the Dev Tools inspector?
 		command + option + I
 
-3. Go to http://www.postmachina.com/ and analyze and tweak this nicely designed page.
+* Go to http://www.postmachina.com/ and analyze and tweak this nicely designed page.
   * What is the current background color for the page?: #0b0f11
   * Tweak the background color to white.
   * Tweak the height of the side bar that contains the logo.  Shrink it down to 85px.
@@ -27,11 +27,11 @@
 
 https://drive.google.com/file/d/0B7TdcfYd-KtkdF9GWTE1WV9QZ3c/edit?usp=sharing
 
-4. For the postmachina website, why can't you tweak the color of the text "The most important things are not things"?  Please explain.
+* For the postmachina website, why can't you tweak the color of the text "The most important things are not things"?  Please explain.
 
 That text isn't included in the website as normal HTML. When I inspect the element, I don't see the text in question. My initial thought was that it was an image, but I don't see an image tag in the HTML either.
 
-5. Go to www.ticketswizard.com and analyze the page.  
+* Go to www.ticketswizard.com and analyze the page.  
   * What is the largest image on the website?
     The largest photo is the beautifully named 92624182-c482-4a35-8da2-4fbf2f502e94_Large_Large.png picture of Time Square. 
   * Explain how you would find out this information, and list the URL of offending image here and how big it is.
