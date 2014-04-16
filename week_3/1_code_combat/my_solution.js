@@ -177,24 +177,28 @@ this.attackXY(60, 48);
 
 
 
-
-    
-    
-    
-    
-    
-
-
-
-
-
-
- 
- 
- 
- 
  
  
  
 // Reflection:
 // Write your reflection here.
+    
+// What is this referring to? Think programming-wise rather than in the terms of the game.
+// This refers to the object currently being called. In this instance it was the specific person.
+// This way, you don't have to name it, you can just say "this"
+
+// What does the () do in JavaScript?
+// The parentheses are used to denote a function. If there are parameters for the function, they go inside.
+
+// What is the point of the semicolons?
+// Semi colons let the computer know that the line has ended.
+
+// This challenge went well. I worked with Greg for the first time, which was a lot of fun and really the best part. 
+// He has amazing sound effect skills. We did get to troubleshoot once when we were combining too many comparatives in 
+// a clause. We were writing it like we would in English rather than how it should be in code. There was nothing new 
+// covered, but it was a nice way to ease back into javascript. The whole thing was a little much though. It was fun at 
+// the beginning, but I wish there was less focus on the animation and more on the coding. 
+
+
+
+
