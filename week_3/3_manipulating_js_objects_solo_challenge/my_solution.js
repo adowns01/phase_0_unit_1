@@ -16,29 +16,57 @@ var terah = {
 1. Define a variable adam and use object literal notation to assign this variable 
    the value of a JavaScript Object object with no properties.
 
+   Create an object named Adam. Put no info between the brackets. 
+
 2. Give adam a name property with the value "Adam".
 
+  Create a name propety for Adam and assign it "Adam"
+
 3. Add a spouse property to terah and assign it the value of adam.
+  
+  Create a spouse for terah property using dot notation and assign it adam.
 
 4. Change the value of the terah weight property to 125.
 
+  Call terah's weight property with dot notation and assign it 125.
+
 5. Remove the eyeColor property from terah.
 
+  Call terah's eyeColor property using dot notation and assign it undefined. 
+
 6. Add a spouse property to adam and assign it the value of terah.
+
+  Create a spouse propety for adam, and assign it terah.
 
 7. Add a children property to terah and and use object literal notation to assign 
    this variable the value of a JavaScript Object object with no properties
 
+   Create a children propety to terah and assign it an empty object.
+
 8. Add a carson property to the value of the terah children property and assign it 
   the value of an object with the property name with a value of "Carson".
+
+  Call terah's child property using dot notation, and assign it a carson property
+  using dot notation.
+  Call the carson property of terah's child property and give it a "Carson" property 
+  that is an empty object  
 
 9. Add a carter property to the value of the terah children property and assign it 
    the value of an object with the property name with a value of "Carter".
 
+   Call terah's child property and assign it a carter property, which is an empty
+   object with the name "Carter"
+
 10. Add a colton property to the value of the terah children property and assign it 
     the value of an object with the property name with a value of "Colton".
 
+    Call terah's child property and assign it a colton property, which is an empty
+   object with the name "Colton"
+
 11. Add a children property to adam and assign it the value of terah children.
+
+  Create a children property to adam. Assign this property the children property
+  of terah 
 
 
 */
@@ -46,6 +74,23 @@ var terah = {
 // __________________________________________
 // Write your code below.
 
+// 1. Define a variable adam and use object literal notation to assign this variable 
+//    the value of a JavaScript Object object with no properties.
+var adam = {};
+
+//    Create an object named Adam. Put no info between the brackets. 
+
+// 2. Give adam a name property with the value "Adam".
+
+//   Create a name propety for Adam and assign it "Adam"
+
+adam.name = "Adam";
+
+// 3. Add a spouse property to terah and assign it the value of adam.
+  
+//   Create a spouse for terah property using dot notation and assign it adam.
+
+terah.spouse = adam;
 
 
 
