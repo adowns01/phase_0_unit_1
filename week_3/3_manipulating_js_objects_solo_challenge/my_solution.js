@@ -74,25 +74,41 @@ var terah = {
 // __________________________________________
 // Write your code below.
 
-// 1. Define a variable adam and use object literal notation to assign this variable 
-//    the value of a JavaScript Object object with no properties.
+// 1. 
 var adam = {};
 
-//    Create an object named Adam. Put no info between the brackets. 
-
-// 2. Give adam a name property with the value "Adam".
-
-//   Create a name propety for Adam and assign it "Adam"
-
+//2. 
 adam.name = "Adam";
 
-// 3. Add a spouse property to terah and assign it the value of adam.
-  
-//   Create a spouse for terah property using dot notation and assign it adam.
-
+//3. 
 terah.spouse = adam;
 
+//4. 
+terah.weight = 125;
 
+// 5.
+terah.eyeColor = undefined; 
+
+// 6.
+adam.spouse = terah; 
+
+// 7.
+terah.children = {};
+
+// 8.
+terah.children.carson = {};
+terah.children.carson.name = "Carson";
+
+// 9.
+terah.children.carter = {};
+terah.children.carter.name = "Carter";
+
+// 10.
+terah.children.colton = {};
+terah.children.colton.name = "Colton";
+
+// 11.
+adam.children = terah.children;
 
 
 
@@ -101,8 +117,16 @@ terah.spouse = adam;
 // __________________________________________
 // Reflection: Use the reflection guidelines
 // 
+// I really liked this challenge. I really like js more than HTML/CSS, I like
+// the problem solving aspect of it. I love challenged when a testing mechanism 
+// is already written. It's so rewarding to know I did it right.
+//
+// I did stumble a little with how to assign an obejct an object in numbers
+// 8, 9, 10. I used W3 to look up some answers on different ways to define obj.
+// I was trying to think of how I could do those numbers in one line,
+// but I decided that two lines make it easier and cleaer for a reader. 
 // 
-// 
+// I am very confident in js and I look forward to doing more with it. 
 // 
 // 
 // 
