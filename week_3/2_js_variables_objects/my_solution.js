@@ -1,4 +1,4 @@
-// I paired [by myself, with:] on this challenge.
+// I was by myself on this challenge.
 
 
 
